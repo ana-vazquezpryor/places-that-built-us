@@ -1,15 +1,20 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
+filesize,File Size
 date,Date Created,
 description,Description,
 subject,Subjects,true
+associatedpeople,Associated People
+typeofplace,Type of Place
 location,Location
+setting,Setting
 latitude,Latitude
 longitude,Longitude
+creator,Creator
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+alttext,Alternative Text
