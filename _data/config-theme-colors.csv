@@ -1,8 +1,8 @@
 color_class,color
-primary,
-secondary,
-success,
-info,
+primary,  #ffe6f2
+secondary,  #e6f9ff
+success,  #ecf9f2
+info,   #f2e6ff
 warning,
 danger,
 light,
