@@ -1,11 +1,11 @@
 field,display_name,browse_link,external_link
 title,Title,
-filesize,File Size,,
+filesize,File Size
 date,Date Created,
 description,Description,
 subject,Subjects,true
-associatedpeople,Associated People,,
-typeofplace,Type of Place,,,
+associatedpeople,Associated People
+typeofplace,Type of Place
 location,Location
 setting,Setting
 latitude,Latitude
@@ -17,4 +17,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-alttext,Alternative Text,,
+alttext,Alternative Text
